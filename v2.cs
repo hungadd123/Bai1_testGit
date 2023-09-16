@@ -8,8 +8,8 @@ namespace testGit
 {
     internal class v2
     {
+        private int id;
 
-
-
+        public int Id { get => id; set => id = value; }
     }
 }
