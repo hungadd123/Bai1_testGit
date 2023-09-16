@@ -8,8 +8,8 @@ namespace testGit
 {
     internal class v2
     {
+        private string mssv;
 
-
-
+        public string Mssv { get => mssv; set => mssv = value; }
     }
 }
